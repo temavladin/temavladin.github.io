@@ -36,9 +36,9 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "Владин"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      #filename: "logo.svg"
     button:
       enable: false
       text: "Get Started"
@@ -58,7 +58,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Monday, January 2, 2006'
+  date_format: 'January 2, 2006'
   time_format: '15:04 MSK'
 
 # Site features
