@@ -30,15 +30,15 @@ highlight_name: false #true
 # Social network links Добавить ВК и Телеграмм и Архив
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/Internet_Archive_Logo
-    url: https://archive.org/details/@artemy_vladin
-    label: Интернет Архив
   - icon: custom/vk-brands
     url: https://vk.com/temavladin
     label: Вконтакте
   - icon: custom/telegram-brands
     url: https://t.me/temavladin
     label: Телеграмм
+  - icon: custom/Internet_Archive_Logo
+    url: https://archive.org/details/@artemy_vladin
+    label: Интернет Архив  
 #  - icon: brands/github
 #    url: https://github.com/gcushen
 #  - icon: brands/linkedin
