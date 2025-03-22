@@ -42,9 +42,7 @@ $$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partia
 \[ \mathrm{d}^3 f(x,y) = - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
 {{< /math >}}
 
-**Ответ:**
-{{< math >}} $ - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3 \cdot \mathrm{d} y^3 $
-{{< /math >}}
+**Ответ:** {{< math >}} $ - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3$ {{< /math >}}
 
 ## Пример 2. (Лунгу № 11.5.7)
 {{< math >}}
