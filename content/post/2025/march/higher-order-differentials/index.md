@@ -41,12 +41,13 @@ $$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partia
 \[ \mathrm{d}^3 f(x,y) = 0 + 0 - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
 \[ \mathrm{d}^3 f(x,y) = - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
 {{< /math >}}
-**Ответ:** {{< math >}}$\; - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3 \cdot \mathrm{d} y^3$ {{< /math >}}
+**Ответ:** {{< math >}}$ - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3 \cdot \mathrm{d} y^3$ {{< /math >}}
 
 ## Пример 2. (Лунгу № 11.5.7)
 {{< math >}}
 $z=f(x,y)= \sin x \cdot \sin y \; \;$ Найти: $\mathrm{d}^2 z$
 {{< /math >}}
+
 Формула для вычисления дифференциала второго порядка от функции двух переменных:
 {{< math >}}
 \[ \mathrm{d}^2 z = C^0_2 \cdot \dfrac{\partial^2 z}{\partial x^2} \cdot \mathrm{d} x^2 + C^1_2 \cdot \dfrac{\partial^2 z}{\partial x \partial y} \cdot \mathrm{d} x \cdot \mathrm{d} y + C^2_2 \cdot \dfrac{\partial^2 z}{\partial y^2} \cdot \mathrm{d} y^2 \]
