@@ -17,6 +17,7 @@ $$ \mathrm{d}^n f(x,y) =  \displaystyle\sum_{k=0}^{n} C^k_n \dfrac{\partial^n f}
 {{< math >}}
 $f(x,y) = x \cdot \ln y \; \; \;$ Найти: $\mathrm{d}^3 f(x,y)$
 {{< /math >}}
+
 Формула для вычисления дифференциала третьего порядка от функции двух переменных:
 {{< math >}}
 $$ \mathrm{d}^3 f(x,y) = C^0_3 \cdot \dfrac{\partial^3 f}{\partial x^3} \cdot \mathrm{d} x^3 + C^1_3 \cdot \dfrac{\partial^3 f}{\partial x^2 \partial y} \cdot \mathrm{d} x^2 \cdot \mathrm{d} y + $$
@@ -39,6 +40,26 @@ $$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partia
 {{< math >}}
 \[ \mathrm{d}^3 f(x,y) = 0 + 0 - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
 \[ \mathrm{d}^3 f(x,y) = - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
-**Ответ:** $\; - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3$
 {{< /math >}}
+**Ответ:** {{< math >}}$\; - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3 \cdot \mathrm{d} y^3$ {{< /math >}}
+
 ## Пример 2. (Лунгу № 11.5.7)
+{{< math >}}
+$z=f(x,y)= \sin x \cdot \sin y \; \;$ Найти: $\mathrm{d}^2 z$
+{{< /math >}}
+Формула для вычисления дифференциала второго порядка от функции двух переменных:
+{{< math >}}
+\[ \mathrm{d}^2 z = C^0_2 \cdot \dfrac{\partial^2 z}{\partial x^2} \cdot \mathrm{d} x^2 + C^1_2 \cdot \dfrac{\partial^2 z}{\partial x \partial y} \cdot \mathrm{d} x \cdot \mathrm{d} y + C^2_2 \cdot \dfrac{\partial^2 z}{\partial y^2} \cdot \mathrm{d} y^2 \]
+{{< /math >}}
+Вычислим частные производные:
+{{< math >}}
+\[ \dfrac{\partial z}{\partial x} = \cos x \cdot \sin y; \; \; \; \; \dfrac{\partial^2 z}{\partial x^2} = - \sin x \cdot \sin y; \]
+\[ \dfrac{\partial z}{\partial y} = \sin x \cdot \cos y; \; \; \; \; \dfrac{\partial^2 z}{\partial y^2} = - \sin x \cdot \sin y; \]
+\[ \dfrac{\partial^2 z}{\partial x \partial y} = \cos x \cdot \cos y; \]
+{{< /math >}}
+Подставим значения в формулу:
+{{< math >}}
+\[ \mathrm{d}^2 z = 1 \cdot (- \sin x \sin y) \cdot \mathrm{d} x^2 + 2 \cdot \cos x \cos y \cdot \mathrm{d} x \cdot \mathrm{d} y + 1 \cdot (- \sin x \sin y) \cdot \mathrm{d} y^2 \]
+\[ \mathrm{d}^2 z = - \sin x \sin y \cdot \mathrm{d} x^2 + 2 \cos x \cos y \cdot \mathrm{d} x \cdot \mathrm{d} y - \sin x \sin y \cdot \mathrm{d} y^2 \]
+{{< /math >}}
+**Ответ:** {{< math >}} $ - \sin x \sin y \cdot \mathrm{d} x^2 + 2 \cos x \cos y \cdot \mathrm{d} x \cdot \mathrm{d} y - \sin x \sin y \cdot \mathrm{d} y^2 $ {{< /math >}}
