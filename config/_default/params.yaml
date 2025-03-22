@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: 'Vladin Artemy {year} Russian Federation'
+    notice: 'Российская Федерация {year}. Артемий Владин. Лицензия CC BY 4.0'
     license:
       enable: false
       allow_derivatives: false
@@ -55,6 +55,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
