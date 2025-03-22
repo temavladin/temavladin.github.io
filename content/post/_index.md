@@ -1,4 +1,4 @@
 ---
 title: Блокнот
-view: article-grid
+view: date-title-summary
 ---
