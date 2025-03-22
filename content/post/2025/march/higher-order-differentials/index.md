@@ -31,3 +31,8 @@ $$\dfrac{\partial f}{\partial x} = \ln y; \; \; \; \; \dfrac{\partial^2 f}{\part
 $$ \dfrac{\partial f}{\partial y} = \dfrac{x}{y}; \; \; \; \; \dfrac{\partial^2 f}{\partial y^2} = - \dfrac{x}{y^2}; \; \; \; \;  \dfrac{\partial^3 f}{\partial y^3} = \dfrac{2x}{y^3}; $$
 $$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partial^3 f}{\partial x \partial y^2} = -\dfrac{1}{y^2}$$
 {{< /math >}}
+Подставим значения в формулу:
+{{< math >}}
+\[ \mathrm{d}^3 f(x,y) = 1 \cdot 0 \cdot \mathrm{d} x^3 + 3 \cdot 0 \cdot \mathrm{d} x^2 \cdot \mathrm{d} y + \]
+\[ + 3 \cdot \left( - \dfrac{1}{y^2}\right) \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + 1 \cdot \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
+{{< /math >}}
