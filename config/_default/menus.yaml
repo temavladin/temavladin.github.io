@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Работы
-    url: /notes
+    url: /docs
     weight: 11
   - name: Блокнот
-    url: /#news
+    url: /post
     weight: 12
   - name: Картотека
     url: tags/
