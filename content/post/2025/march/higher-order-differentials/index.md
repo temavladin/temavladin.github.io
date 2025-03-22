@@ -4,8 +4,7 @@ summary: Практика по математическому анализу. Р
 date: 2025-03-21
 tags: ["Математический анализ"]
 ---
-
-## Дифференциалы высших порядков от функций с двумя переменными.
+## Формула для вычисления дифференциалов высших порядков от функций с двумя переменными.
 Дифференциалы высших порядков определяются как:
 {{< math >}}
 $$ \mathrm{d}^n f(x,y) = \left( \dfrac{\partial}{\partial x} \mathrm{d} x + \dfrac{\partial}{\partial y} \mathrm{d} y \right)^n \cdot (f(x,y)) $$
@@ -14,7 +13,7 @@ $$ \mathrm{d}^n f(x,y) = \left( \dfrac{\partial}{\partial x} \mathrm{d} x + \dfr
 {{< math >}}
 $$ \mathrm{d}^n f(x,y) =  \displaystyle\sum_{k=0}^{n} C^k_n \dfrac{\partial^n f}{\partial x^{n-k} \cdot \partial y^k } \cdot \mathrm{d} x^{n-k} \cdot \mathrm{d} y^k  $$
 {{< /math >}}
-### Пример 1.
+## Пример 1.
 {{< math >}}
 $f(x,y) = x \cdot \ln y \; \; \;$ Найти: $\mathrm{d}^3 f(x,y)$
 {{< /math >}}
@@ -36,3 +35,10 @@ $$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partia
 \[ \mathrm{d}^3 f(x,y) = 1 \cdot 0 \cdot \mathrm{d} x^3 + 3 \cdot 0 \cdot \mathrm{d} x^2 \cdot \mathrm{d} y + \]
 \[ + 3 \cdot \left( - \dfrac{1}{y^2}\right) \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + 1 \cdot \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
 {{< /math >}}
+Вычислим оставшееся:
+{{< math >}}
+\[ \mathrm{d}^3 f(x,y) = 0 + 0 - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
+\[ \mathrm{d}^3 f(x,y) = - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3 \]
+**Ответ:** $\; - \dfrac{3}{y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + \dfrac{2x}{y^3} \cdot \mathrm{d} y^3$
+{{< /math >}}
+## Пример 2. (Лунгу № 11.5.7)
