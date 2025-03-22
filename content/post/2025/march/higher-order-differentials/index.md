@@ -14,9 +14,20 @@ $$ \mathrm{d}^n f(x,y) = \left( \dfrac{\partial}{\partial x} \mathrm{d} x + \dfr
 {{< math >}}
 $$ \mathrm{d}^n f(x,y) =  \displaystyle\sum_{k=0}^{n} C^k_n \dfrac{\partial^n f}{\partial x^{n-k} \cdot \partial y^k } \cdot \mathrm{d} x^{n-k} \cdot \mathrm{d} y^k  $$
 {{< /math >}}
-
 ### Пример 1.
-
 {{< math >}}
 $f(x,y) = x \cdot \ln y \; \; \;$ Найти: $\mathrm{d}^3 f(x,y)$
+{{< /math >}}
+Формула для вычисления дифференциала третьего порядка от функции двух переменных:
+{{< math >}}
+$$ \mathrm{d}^3 f(x,y) = C^0_3 \cdot \dfrac{\partial^3 f}{\partial x^3} \cdot \mathrm{d} x^3 + C^1_3 \cdot \dfrac{\partial^3 f}{\partial x^2 \partial y} \cdot \mathrm{d} x^2 \cdot \mathrm{d} y + $$
+{{< /math >}}
+{{< math >}}
+$$ + C^2_3 \cdot \dfrac{\partial^3 f}{\partial x \partial y^2} \cdot \mathrm{d} x \cdot \mathrm{d} y^2 + C^3_3 \cdot \dfrac{\partial^3 f}{\partial y^3} \cdot \mathrm{d} y^3  $$
+{{< /math >}}
+Вычислим частные производные:
+{{< math >}}
+$$\dfrac{\partial f}{\partial x} = \ln y; \; \; \; \; \dfrac{\partial^2 f}{\partial x^2} = 0; \; \; \; \;  \dfrac{\partial^3 f}{\partial x^3} = 0;$$
+$$ \dfrac{\partial f}{\partial y} = \dfrac{x}{y}; \; \; \; \; \dfrac{\partial^2 f}{\partial y^2} = - \dfrac{x}{y^2}; \; \; \; \;  \dfrac{\partial^3 f}{\partial y^3} = \dfrac{2x}{y^3}; $$
+$$ \dfrac{\partial^3 f}{\partial x^2 \partial y} = 0; \; \; \; \; \dfrac{\partial^3 f}{\partial x \partial y^2} = -\dfrac{1}{y^2}$$
 {{< /math >}}
