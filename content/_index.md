@@ -31,7 +31,7 @@ sections:
           features:
             - "«Розы и Лилии» – Анри Фантен-Латур 1888"
           # Upload image to `assets/media/` and reference the filename here
-          image: welocome.jpg
+          image: welcome.jpg
   - block: collection
     id: news
     content:
