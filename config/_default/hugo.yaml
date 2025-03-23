@@ -35,7 +35,7 @@ cascade:
   - _target:
       path: /post/**
       kind: page
-    pager: true
+    pager: false
     editable: false
     hide_date: false
     show_date_updated: true
