@@ -5,6 +5,13 @@ date: 2025-03-21
 tags: ["Математический анализ"]
 ---
 
+## Таблица основных интегралов (файл).
+
+![Таблица основных (простейших) интегралов. Первообразные функций. Интегралы от степенной, показательной, функций, от экспоненты, от тригонометрических функций.](https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=764x1080&quality=95&sign=ce2ba53f24fe6936e894593cfd6a5a5b&type=album "Таблица основных интегралов.")
+
+<img src="https://ia801304.us.archive.org/10/items/20250323_20250323_0600/Table-of-basic-integrals.jpg" srcset="https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=764x1080&quality=95&sign=ce2ba53f24fe6936e894593cfd6a5a5b&type=album" alt="Таблица основных (простейших) интегралов. Первообразные функций. Интегралы от степенной, показательной, функций, от экспоненты, от тригонометрических функций.">
+
+## Сводка основных интегралов (текст).
 ### 1. Интеграл от нуля.
 {{< math >}}
 \[ \int 0 \cdot \mathrm{d}x = C \]
