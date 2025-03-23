@@ -4,9 +4,13 @@ summary: Уравнения с разделяющимися переменным
 date: 2025-03-23
 tags: ["Математический анализ"]
 ---
+<sub>
 Текст данной страницы можно сохранить как PDF:
+
 [Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478384)
+
 [Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Solution-of-first-order-differential-equations.pdf)
+</sub>
 
 ## Дифференциальные уравнения с разделяющимися переменными.
 ### Пример 1.
