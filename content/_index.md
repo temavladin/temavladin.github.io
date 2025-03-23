@@ -6,14 +6,14 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "1rem"
 
 sections:
   - block: cta-image-paragraph
     id: profile2
     content:
       items:
-        - title: Владин Артемий
+        - title: Артемий Владин
           text:
           #feature_icon: check
           #features:
