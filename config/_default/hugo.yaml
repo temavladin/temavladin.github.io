@@ -43,6 +43,7 @@ cascade:
     commentable: false
     show_related: true
     share: false
+    profile: false
     # Just use Breadcrumb for navigation on blog post pages?
     show_breadcrumb: false
     header:
