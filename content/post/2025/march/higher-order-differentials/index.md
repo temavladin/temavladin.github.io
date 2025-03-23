@@ -4,9 +4,9 @@ summary: Практика по математическому анализу. Р
 date: 2025-03-22
 tags: ["Математический анализ"]
 ---
-Текст данной страницы можно сохранить как PDF:
-[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478382)
-[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Higher-order-differentials-from-functions-with-two-variables.pdf)
+> Текст данной страницы можно сохранить как PDF:
+> [Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478382)
+> [Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Higher-order-differentials-from-functions-with-two-variables.pdf)
 
 ## Формула для вычисления дифференциалов высших порядков от функций с двумя переменными.
 Дифференциалы высших порядков определяются как:
