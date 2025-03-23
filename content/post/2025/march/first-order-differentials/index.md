@@ -4,9 +4,6 @@ summary: Уравнения с разделяющимися переменным
 date: 2025-03-23
 tags: ["Математический анализ"]
 ---
-Текст данной страницы можно сохранить как PDF:
-[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478384)
-[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Solution-of-first-order-differential-equations.pdf)
 
 ## Дифференциальные уравнения с разделяющимися переменными.
 ### Пример 1.
@@ -214,3 +211,9 @@ $u = \dfrac{y}{x}$, то есть $y = u \cdot x$, тогда $\dfrac{\mathrm{d}
 {{< /math >}}
 
 **Ответ:** {{< math >}} $ y^2 + 2xy = C $ {{< /math >}}
+
+## Сохранить эту страницу PDF
+
+Текст данной страницы можно сохранить как PDF:
+[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478384)
+[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Solution-of-first-order-differential-equations.pdf)

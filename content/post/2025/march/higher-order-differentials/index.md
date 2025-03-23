@@ -4,9 +4,6 @@ summary: Практика по математическому анализу. Р
 date: 2025-03-22
 tags: ["Математический анализ"]
 ---
-Текст данной страницы можно сохранить как PDF:
-[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478382)
-[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Higher-order-differentials-from-functions-with-two-variables.pdf)
 
 ## Формула для вычисления дифференциалов высших порядков от функций с двумя переменными.
 Дифференциалы высших порядков определяются как:
@@ -69,3 +66,9 @@ $z=f(x,y)= \sin x \cdot \sin y \; \;$ Найти: $\mathrm{d}^2 z$
 \[ \mathrm{d}^2 z = - \sin x \sin y \cdot \mathrm{d} x^2 + 2 \cos x \cos y \cdot \mathrm{d} x \cdot \mathrm{d} y - \sin x \sin y \cdot \mathrm{d} y^2 \]
 {{< /math >}}
 **Ответ:** {{< math >}} $ - \sin x \sin y \cdot \mathrm{d} x^2 + 2 \cos x \cos y \cdot \mathrm{d} x \cdot \mathrm{d} y - \sin x \sin y \cdot \mathrm{d} y^2 $ {{< /math >}}
+
+## Сохранить эту страницу PDF
+
+Текст данной страницы можно сохранить как PDF:
+[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478382)
+[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Higher-order-differentials-from-functions-with-two-variables.pdf)
