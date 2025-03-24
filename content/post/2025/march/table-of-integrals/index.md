@@ -75,11 +75,11 @@ tags: ["Математический анализ"]
 
 [Таблица интегралов скачать PDF с серверов archive.org](https://ia801304.us.archive.org/10/items/20250323_20250323_0600/table-of-integrals.pdf)
 
-![Таблица основных (простейших) интегралов. Первообразные функций. Интегралы от степенной, показательной, функций, от экспоненты, от тригонометрических функций.](https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=764x1080&quality=95&sign=ce2ba53f24fe6936e894593cfd6a5a5b&type=album "Таблица основных интегралов.")
+![Таблица основных (простейших) интегралов. Первообразные функций. Интегралы от степенной, показательной, функций, от экспоненты, от тригонометрических функций.](https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=1241x1754&quality=95&sign=6ca7f2e8b4bf4c9f00eb2cc566cf8656&type=album "Таблица основных интегралов.")
 
 {{< spoiler text="Скачать изображение JPG таблица интегралов." >}}
 
-[Скачать JPG таблица интегралов с серверов Вконтакте](https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=764x1080&quality=95&sign=ce2ba53f24fe6936e894593cfd6a5a5b&type=album)
+[Скачать JPG таблица интегралов с серверов Вконтакте](https://sun9-43.userapi.com/impg/ywIiKGV1zynR3UrexUpLMq1cWf91UuZt6O5tQA/zfNI_5g662U.jpg?size=1241x1754&quality=95&sign=6ca7f2e8b4bf4c9f00eb2cc566cf8656&type=album)
 
 [Скачать JPG таблица интегралов с серверов archive.org](https://ia601304.us.archive.org/10/items/20250323_20250323_0600/Table-of-basic-integrals.jpg)
 {{< /spoiler >}}
