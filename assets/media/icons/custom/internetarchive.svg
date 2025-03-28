@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 496 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="telegram-brands.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.72580645"
+     inkscape:cx="248"
+     inkscape:cy="255.57778"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+  <path
+     d="m 457.16409,470.66845 v 22.01719 H 38.835907 l 0.0014,-22.01719 z m -16.51293,-33.02597 v 27.52161 H 55.348876 V 437.64248 Z M 95.697557,140.4093 l 4.592943,2.32131 2.2986,37.11906 2.29865,60.31438 v 58.00639 l -2.29865,72.30722 -0.38212,48.71227 -6.509182,1.93959 H 72.72452 l -6.891469,-1.93959 -2.676742,-48.71227 -2.302981,-71.92105 v -58.00204 l 2.302981,-60.70492 2.101003,-37.31882 4.790685,-2.12153 z m 330.261603,0 4.59823,2.32131 2.29472,37.11906 2.2947,60.31438 v 58.00639 l -2.2947,72.30722 -0.37841,48.71227 -6.51457,1.93959 h -22.97344 l -6.89281,-1.93959 -2.68596,-48.71227 -2.29472,-71.92105 v -58.00204 l 2.29472,-60.70492 2.11003,-37.31882 4.78728,-2.12153 z m -231.18481,0 4.59338,2.32131 2.29884,37.11906 2.29889,60.31438 v 58.00639 l -2.29889,72.30722 -0.3784,48.71227 -6.51388,1.93959 h -22.97548 l -6.89666,-1.93959 -2.67691,-48.71227 -2.29439,-71.92105 v -58.00204 l 2.29448,-60.70492 2.10988,-37.31882 4.7823,-2.12153 z m 126.59933,0 4.59334,2.32131 2.29891,37.11906 2.29882,60.31438 v 58.00639 l -2.29882,72.30722 -0.37842,48.71227 -6.51392,1.93959 h -22.97546 l -6.89223,-1.93959 -2.68126,-48.71227 -2.29444,-71.92105 v -58.00204 l 2.29444,-60.70492 2.10984,-37.31882 4.78672,-2.12153 z M 440.65116,90.870465 V 129.40068 H 55.348876 V 90.870465 Z m -196.61472,-71.556107 202.119,46.284813 -8.1024,14.262691 H 50.945371 L 38.835909,68.29502 Z"
+     fill="#2c2c2c"
+     fill-rule="evenodd"
+     id="path1-8"
+     style="stroke-width:5.50431" />
+</svg>

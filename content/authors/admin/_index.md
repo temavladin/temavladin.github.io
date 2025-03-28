@@ -23,9 +23,9 @@ highlight_name: false #true
 #role: Студент #Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
-#organizations:
-#  - name: ГУАП #OpenAI
-#    url: https://guap.ru/ #https://openai.com/
+organizations:
+  - name: Государственный университет аэрокосмического приборостроения. #OpenAI
+    url: https://guap.ru/ #https://openai.com/
 
 # Social network links Добавить ВК и Телеграмм и Архив
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,7 +36,7 @@ profiles:
   - icon: custom/telegram-brands
     url: https://t.me/temavladin
     label: Телеграмм
-  - icon: custom/Internet_Archive_Logo
+  - icon: custom/internetarchive
     url: https://archive.org/details/@artemy_vladin
     label: Интернет Архив  
 #  - icon: brands/github
