@@ -20,7 +20,7 @@ superuser: true
 highlight_name: false #true
 
 # Role/position/tagline В случае чего стереть
-#role: Студент #Chief Scientist
+role: Студент ГУАП #Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
