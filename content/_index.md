@@ -64,9 +64,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: [Карта сайта.](https://temavladin.github.io/sitemap.xml)
 ---
