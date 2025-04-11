@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Владин Артемий посвящён Смирнова Владлена Артёмовна Vladin Artemy for Smirnova Vladlena Artemovna'
+    description: 'Проект (Артемий Владин) создан В. Смирновой в 2022 году. Руководитель - В. Смирнова. The project (Artemy Vladin) was created by V. Smirnova in 2022. Director - V. Smirnova.'
     twitter: ''
   analytics:
     google_analytics: 'G-REMXRBYSXD'
@@ -41,7 +41,10 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: 'Российская Федерация {year}. Артемий Владин. Лицензия CC BY 4.0'
+    notice: 'Буду признателен за отзывы и замечания, которые можно присылать по адресу [Вконтакте](https://vk.com/temavladin)'
+    notice: 'Материалы доступны по лицензии CC BY 4.0'
+    notice: 'Российская Федерация {year}. Артемий Владин.'
+    #notice: 'Российская Федерация {year}. Артемий Владин. Лицензия CC BY 4.0'
     license:
       enable: false
       allow_derivatives: false
