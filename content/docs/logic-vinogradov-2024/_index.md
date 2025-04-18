@@ -8,7 +8,7 @@ weight: 99990
 ---
 
 {{< cards >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-1/" title="Глава I. Предмет и задачи науки логики." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-2/" title="Глава II.
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-1/" title="Глава 1. Предмет и задачи науки логики." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-2/" title="Глава 2.
  Логические приёмы." >}}
 {{< /cards >}}
