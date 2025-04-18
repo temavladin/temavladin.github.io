@@ -24,7 +24,7 @@ removePathAccents: true
 cascade:
   # Docs folder options
   - _target:
-      path: /workbook/**
+      path: /docs/**
       kind: page
     profile: true
     editable: false
