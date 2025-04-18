@@ -14,10 +14,10 @@
         {{ .Content }}
       </div>
 
-      {{ partial "components/last-edited.html" . }}
-      {{ .Scratch.Set "invert_pager" true }}
-      {{ partial "components/next-in-series.html" . }}
-      {{ partial "comments.html" . }}
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        {{ .Scratch.Set "invert_pager" true }}
+        {{ partial "page_footer" . }}
+      </div>
     </main>
   </article>
 </div>
