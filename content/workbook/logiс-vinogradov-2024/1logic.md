@@ -6,6 +6,7 @@ type: docs
 authors: ["admin"]
 profile: true
 tags: ["Логика"]
+#weight: 1
 ---
 
 test This section covers reference docs.
