@@ -9,5 +9,5 @@ weight: 1
 ---
 
 {{< cards >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/" title="Логика. Ответы на вопросы." subtitle="Тетрадь с ответами на вопросы по учебнику Логика С.Н. Виноградов, А.Ф. Кузьмин." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/" title="ЛОГИКА. Ответы на вопросы. Тетрадь 29.01.2025" subtitle="Записи по учебнику Логика С.Н. Виноградов, А.Ф. Кузьмин. Тетрадь начата: 23.12.2024, окончена: 29.01.2025" >}}
 {{< /cards >}}
