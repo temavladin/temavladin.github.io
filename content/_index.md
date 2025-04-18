@@ -23,18 +23,14 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: cta-image-paragraph
-    id: profile2
+  - block: markdown
     content:
-      items:
-        - title: С праздником 8 Марта!
-          text: Поздравляю с началом весны.
-          text: Картина «Розы и Лилии» – Анри Фантен-Латур 1888 год.
-          #feature_icon:
-          #features:
-          #  - "«Розы и Лилии» – Анри Фантен-Латур 1888"
-          # Upload image to `assets/media/` and reference the filename here
-          image: welcome.jpg
+      title: 'Обратная связь'
+      subtitle: ''
+      text: |-
+        Автор будет признателен за любые отзывы, пожелания и критические замечания, которые можно прислать в сообщения [Вконтакте](https://vk.com/temavladin) .
+    design:
+      columns: '1'
   - block: collection
     id: news
     content:
@@ -42,9 +38,9 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: post, docs
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 5
       # Filter on criteria
       filters:
         author: ""
@@ -64,4 +60,12 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: 'Карта сайта'
+      subtitle: ''
+      text: |-
+        [sitemap](https://temavladin.github.io/sitemap.xml) .
+    design:
+      columns: '1'
 ---
