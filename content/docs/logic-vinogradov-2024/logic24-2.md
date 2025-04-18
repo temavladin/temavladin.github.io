@@ -1,6 +1,6 @@
 ---
-linkTitle: Глава 2
-title: Глава 2
+linkTitle: Глава II. Логические приёмы.
+title: Глава II. Логические приёмы.
 date: 2025-04-10
 type: docs
 authors: ["admin"]
