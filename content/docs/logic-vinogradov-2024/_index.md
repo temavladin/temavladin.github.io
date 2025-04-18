@@ -20,4 +20,7 @@ toc: false
 {{< cards >}}
   {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-1/" title="Глава I. Предмет и задачи науки логики." >}}
   {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-2/" title="Глава II. Логические приёмы." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-3/" title="Глава III. Понятие." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-4/" title="Глава IV. Определение и деление понятия." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-5/" title="Глава V. Суждение." >}}
 {{< /cards >}}
