@@ -41,9 +41,6 @@ header:
 # Site footer
 footer:
   copyright:
-    #notice: 'Буду признателен за отзывы и замечания, которые можно присылать по адресу [Вконтакте](https://vk.com/temavladin)'
-    #notice: 'Материалы доступны по лицензии CC BY 4.0'
-    #notice: 'Российская Федерация {year}. Артемий Владин.'
     notice: 'Российская Федерация {year}. Артемий Владин. Лицензия CC BY 4.0'
     license:
       enable: false
