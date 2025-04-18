@@ -38,7 +38,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post, docs
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -65,7 +65,7 @@ sections:
       title: 'Карта сайта'
       subtitle: ''
       text: |-
-        [sitemap](https://temavladin.github.io/sitemap.xml) .
+        [sitemap](https://temavladin.github.io/sitemap.xml)
     design:
       columns: '1'
 ---
