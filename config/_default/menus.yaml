@@ -7,9 +7,9 @@ main:
   - name: Главная
     url: /
     weight: 10
-  - name: Тетради
-    url: /docs
-    weight: 11
+  #- name: Тетради
+  #  url: /docs
+  #  weight: 11
   - name: Блокнот
     url: /post
     weight: 12
