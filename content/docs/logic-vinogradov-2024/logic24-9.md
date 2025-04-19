@@ -1,12 +1,12 @@
 ---
-linkTitle: Глава VIII. Дедуктивные умозаключения.
-title: Глава VIII. Дедуктивные умозаключения.
+linkTitle: Глава IX. Индуктивные умозаключения.
+title: Глава IX. Индуктивные умозаключения.
 date: 2025-04-19
 type: docs
 authors: ["admin"]
 profile: true
 tags: ["Логика"]
-weight: 8
+weight: 9
 ---
 
 

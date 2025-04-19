@@ -26,4 +26,8 @@ toc: false
   {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-6/" title="Глава VI. Преобразование суждений." >}}
   {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-7/" title="Глава VII. Основные законы логического мышления." >}}
   {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-8/" title="Глава VIII. Дедуктивные умозаключения." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-9/" title="Глава IX. Индуктивные умозаключения." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-10/" title="Глава X. Аналогия." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-11/" title="Глава XI. Гипотеза." >}}
+  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-12/" title="Глава XII. Доказательство." >}}
 {{< /cards >}}

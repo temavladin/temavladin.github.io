@@ -1,12 +1,12 @@
 ---
-linkTitle: Глава VIII. Дедуктивные умозаключения.
-title: Глава VIII. Дедуктивные умозаключения.
+linkTitle: Глава X. Аналогия.
+title: Глава X. Аналогия.
 date: 2025-04-19
 type: docs
 authors: ["admin"]
 profile: true
 tags: ["Логика"]
-weight: 8
+weight: 10
 ---
 
 
