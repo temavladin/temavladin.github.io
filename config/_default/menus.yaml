@@ -10,12 +10,12 @@ main:
   - name: Тетради
     url: /docs
     weight: 11
-  - name: Блокнот
+  - name: Заметки
     url: /post
     weight: 12
   - name: Картотека
     url: tags/
-#    weight: 13
+    weight: 13
 #  - name: Experience
 #    url: experience/
 #    weight: 20
