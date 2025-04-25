@@ -24,7 +24,7 @@ role: Студент ГУАП #Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Государственный университет аэрокосмического приборостроения. #OpenAI
+  - name: ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ АЭРОКОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ #Государственный университет аэрокосмического приборостроения. #OpenAI
     #url: #https://openai.com/
 
 # Social network links Добавить ВК и Телеграмм и Архив

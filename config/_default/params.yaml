@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Проект (Артемий Владин) создан В. Смирновой в 2022 году. Руководитель - В. Смирнова. The project (Artemy Vladin) was created by V. Smirnova in 2022. Director - V. Smirnova.'
+    description: 'Руководитель - В.А. Смирнова. Отчёт подготовил Артемий Владин. Director - V.A. Smirnova. The report was prepared by Artemy Vladin.'
     twitter: ''
   analytics:
     google_analytics: 'G-REMXRBYSXD'
@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: 'Российская Федерация {year}. Артемий Владин. Лицензия CC BY 4.0'
+    notice: '{year} Артемий Владин. Российская Федерация. Лицензия CC BY 4.0'
     license:
       enable: false
       allow_derivatives: false
