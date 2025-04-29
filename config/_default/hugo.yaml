@@ -35,7 +35,7 @@ cascade:
     # Show date modified at end of content
     show_date_updated: true
     pager: true
-    profile: true
+    show_related: true
   # Blog post options
   - _target:
       path: /post/**
