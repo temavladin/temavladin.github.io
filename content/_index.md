@@ -35,7 +35,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post/celebration
+          - post
         author: ""
         category: ""
         tag: ""
