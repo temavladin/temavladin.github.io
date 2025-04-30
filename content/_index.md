@@ -30,7 +30,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 2
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -53,7 +53,7 @@ sections:
     design:
       # Choose a listing view
       view: article-grid
-      columns: 3
+      columns: 2
   - block: markdown
     content:
       title: 'Обратная связь'
