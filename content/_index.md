@@ -26,9 +26,9 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Объявления
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
@@ -37,7 +37,7 @@ sections:
         folders:
           - post
         author: ""
-        category: ""
+        category: "celebration"
         tag: ""
         publication_type: ""
         featured_only: false
