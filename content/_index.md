@@ -37,7 +37,7 @@ sections:
         folders:
           - post
         author: ""
-        category: 'celebration'
+        category: celebration
         tag: ""
         publication_type: ""
         featured_only: false
