@@ -26,16 +26,20 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Объявления
+      title: Recent Posts
       subtitle: ''
-      #text: ''
+      text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         # The folders to display content from
         folders:
-          - post/celebration
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
         featured_only: false
         exclude_featured: false
         exclude_future: false
