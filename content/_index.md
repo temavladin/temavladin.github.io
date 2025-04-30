@@ -37,7 +37,8 @@ sections:
         folders:
           - post
         author: ""
-        category: ""
+        category:
+          - celebration
         tag: ""
         publication_type: ""
         featured_only: false
