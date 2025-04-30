@@ -17,7 +17,7 @@
   {{ if $avatar }}
   {{ $authorImage := $avatar.Fill "192x192 Center" }}
   <img
-    class="mr-4 h-24 w-24 {{if ne $avatar_shape "square"}}rounded-full{{end}}"
+    class="mr-4 h-24 w-24 {{if ne $avatar_shape "square"}}rounded-xl{{end}}"
     width="96"
     height="96"
     alt="{{$author_page.Title}}"
