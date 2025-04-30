@@ -30,7 +30,7 @@ sections:
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -52,7 +52,8 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: article-grid
+      columns: 3
   - block: markdown
     content:
       title: 'Обратная связь'
