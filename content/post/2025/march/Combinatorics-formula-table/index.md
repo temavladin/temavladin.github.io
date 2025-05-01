@@ -74,7 +74,7 @@ $$ P_n(n_1,n_2,\dots,n_k) = \dfrac{n!}{n_1! \cdot n_2! \cdot {\dots} \cdot n_k!}
 
 Здесь можно скачать таблицу формул комбинаторики как файл PDF для печати на A4.
 
-[Таблица формул комбинаторики скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685650944)
+[Таблица формул комбинаторики скачать PDF](https://temavladin.github.io/post/2025/march/combinatorics-formula-table/Combinatorics-formula-table.pdf)
 
 {{< spoiler text="Скачать изображение JPG таблица формул комбинаторики." >}}
 
