@@ -54,6 +54,24 @@ cascade:
     header:
       navbar:
         enable: true
+  # Main post options
+  - _target:
+      path: /main/**
+      kind: page
+    pager: false
+    editable: false
+    hide_date: false
+    show_date_updated: true
+    reading_time: false
+    commentable: false
+    show_related: true
+    share: false
+    profile: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## ADVANCED
