@@ -2,7 +2,7 @@
 title: С Днём Великой Победы!
 summary: Поздравляю с 9 мая!
 date: 2025-04-30
-categories: ["celebration"]
+type: posts
 image:
   placement: 1
   caption: 'Знамя Победы над рейхстагом (фото Морозова)'
