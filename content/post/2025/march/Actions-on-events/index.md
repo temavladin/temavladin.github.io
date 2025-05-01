@@ -35,7 +35,7 @@ image:
 
 Здесь можно скачать <<Действия над событиями>> как файл PDF для печати на A4.
 
-[ <<Действия над событиями>> скачать PDF](https://temavladin.github.io/post/2025/march/actions-on-events/actions-on-events.pdf)
+[ <<Действия над событиями>> скачать PDF](https://temavladin.github.io/post/2025/march/actions-on-events/Actions-on-events.pdf)
 
 {{< spoiler text="Скачать изображение JPG <<Действия над событиями>>." >}}
 
