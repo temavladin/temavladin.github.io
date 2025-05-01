@@ -35,9 +35,9 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - celebration
+          - post
         author: ""
-        category: ""
+        category: celebration
         tag: ""
         publication_type: ""
         featured_only: false
