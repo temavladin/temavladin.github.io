@@ -7,6 +7,7 @@ profile: true
 share: false
 weight: 99990
 toc: false
+url_pdf: https://temavladin.github.io/uploads/Logika-Vladin-2024.pdf
 ---
 
 Рабочая тетрадь с записями по логике, ответы на вопросы, основана на книге: С.Н. Виноградов, А.Ф. Кузьмин <<Логика>>. Учебник для средней школы. — 8-е изд. — Москва: 1954 — 174 c.
