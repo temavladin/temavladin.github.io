@@ -15,7 +15,7 @@ weight: 10
 
 Аналогия в общем виде:
 
-![Аналогия в общем виде](https://sun9-40.userapi.com/impg/f52fgvYvjzJUE9XJHyglxeUnqZ6v2wgrmtDtEg/r6a-3a49wwY.jpg?size=570x141&quality=95&sign=c95e911bf32c8184c027a21998bec617&type=album)
+![Аналогия в общем виде](https://temavladin.github.io/docs/logic-vinogradov-2024/Log24-image/Log24-analogia.jpg)
 
 ## 2. От чего зависит вероятность вывода по аналогии?
 
