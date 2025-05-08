@@ -19,7 +19,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: 3219647517.jpg
+        filename: imgmay25/3219647517.webp
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'

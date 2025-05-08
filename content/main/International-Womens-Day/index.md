@@ -9,7 +9,7 @@ image:
   focal_point: 'Center'
   preview_only: false
   alt_text: Картина <<Умбрийская долина>> 1910. Автор --- Александр Яковлевич Головин (1863-1930).
-  filename: Golovin_umbriiskaya_dolina.jpg
+  filename: imgmay25/Golovin_umbriiskaya_dolina.webp
 ---
 
 Восьмого марта 2025 года создан и опубликован сайт **temavladin**.
