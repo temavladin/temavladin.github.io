@@ -9,10 +9,10 @@ image:
   focal_point: 'Center'
   preview_only: true
   alt_text: Знамя Победы на аэродроме в Темпельхофе Берлин Третий флаг Победы Евгений Халдей 2 мая 1945 год
-  filename: https://temavladin.github.io/main/Victory-Day/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp
+  filename: https://temavladin.github.io/uploads/img/may25/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp
 ---
 
-![Знамя Победы на аэродроме в Темпельхофе Берлин Третий флаг Победы Евгений Халдей 2 мая 1945 год](https://temavladin.github.io/main/Victory-Day/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp "Знамя Победы на аэродроме в Темпельхофе. Е. Халдей")
+![Знамя Победы на аэродроме в Темпельхофе Берлин Третий флаг Победы Евгений Халдей 2 мая 1945 год](https://temavladin.github.io/uploads/img/may25/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp "Знамя Победы на аэродроме в Темпельхофе. Е. Халдей")
 
 ## Текст заметки из газеты «Фронтовая иллюстрация», № 9-10, май 1945 год.
 
