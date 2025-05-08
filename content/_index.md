@@ -9,29 +9,20 @@ design:
   spacing: "1rem"
 
 sections:
-  - block: resume-biography
+  - block: biography
     content:
-      # The user's folder name in content/authors/
       username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
-#  - block: biography
-#    content:
-#      username: admin
       # Show a call-to-action button under your biography? (optional)
       #button:
       #  text: Download Résumé
       #  url: uploads/resume.pdf
-#    design:
-#      banner:
-#        # Upload your cover image to the `assets/media/` folder and reference it here
-#        filename: 3219647517.jpg
-#      biography:
-#        # Customize the style of your biography text
-#        style: 'text-align: justify; font-size: 0.8em;'
+    design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: 3219647517.jpg
+      biography:
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
     id: posts
     content:
