@@ -20,11 +20,11 @@ superuser: true
 highlight_name: false #true
 
 # Role/position/tagline В случае чего стереть
-role: Студент ГУАП #Chief Scientist
+role: #Студент ГУАП #Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ АЭРОКОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ #Государственный университет аэрокосмического приборостроения. #OpenAI
+  - name: #ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ АЭРОКОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ #Государственный университет аэрокосмического приборостроения. #OpenAI
     #url: #https://openai.com/
 
 # Social network links Добавить ВК и Телеграмм и Архив
