@@ -9,7 +9,7 @@ image:
   focal_point: 'Center'
   preview_only: false
   alt_text: Картина <<Умбрийская долина>> 1910. Автор --- Александр Яковлевич Головин (1863-1930).
-  #filename: 
+  filename: imgmay25/Golovin_umbriiskaya_dolina.jpg
 ---
 
 ![Картина <<Умбрийская долина>> 1910. Автор --- Александр Яковлевич Головин (1863-1930)](imgmay25/Golovin_umbriiskaya_dolina.jpg "Картина <<Умбрийская долина>> 1910. Автор --- Александр Яковлевич Головин (1863-1930).")
