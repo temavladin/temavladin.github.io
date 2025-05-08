@@ -12,6 +12,8 @@ image:
   filename: imgmay25/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp
 ---
 
+![](static/img/may25/Victory-Banner-at-the-Tempelhof-aerodrome-Berlin-Evgeny-Khaldey-1945.webp)
+
 ## Текст заметки из газеты «Фронтовая иллюстрация», № 9-10, май 1945 год.
 
 ЗНАМЯ ПОБЕДЫ ВОДРУЖЕНО НАД БЕРЛИНОМ!
