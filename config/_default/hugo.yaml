@@ -93,10 +93,10 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-imaging:
-  resampleFilter: lanczos
-  quality: 80
-  anchor: smart
+#imaging:
+#  resampleFilter: lanczos
+#  quality: 80
+#  anchor: smart
 timeout: 600000
 taxonomies:
   author: authors
