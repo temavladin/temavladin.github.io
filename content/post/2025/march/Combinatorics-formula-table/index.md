@@ -3,13 +3,9 @@ title: Таблица формул комбинаторики.
 summary: Сводка - элементы комбинаторики для теории вероятностей. Основные формулы.
 date: 2025-05-01
 tags: ["Теория вероятностей"]
-image:
-  placement: 1
-  caption: 'Сводка формул комбинаторики.'
-  focal_point: 'Center'
-  preview_only: false
-  alt_text: Основные формулы комбинаторики. Размещения, перестановки, cочетания. Схема выбора с возвращением. Повторения. Таблица простейших формул комбинаторики для студентов.
 ---
+
+![Основные формулы комбинаторики. Размещения, перестановки, cочетания. Схема выбора с возвращением. Повторения. Таблица простейших формул комбинаторики для студентов.](/uploads/img25may/formuly-kombinatoriki-tablica.webp "Сводка формул комбинаторики.")
 
 ### Правило умножения.
 
@@ -74,11 +70,4 @@ $$ P_n(n_1,n_2,\dots,n_k) = \dfrac{n!}{n_1! \cdot n_2! \cdot {\dots} \cdot n_k!}
 
 Здесь можно скачать таблицу формул комбинаторики как файл PDF для печати на A4.
 
-[Таблица формул комбинаторики скачать PDF](https://temavladin.github.io/post/2025/march/combinatorics-formula-table/Combinatorics-formula-table.pdf)
-
-{{< spoiler text="Скачать изображение JPG таблица формул комбинаторики." >}}
-
-[Скачать JPG таблица формул комбинаторики с серверов Вконтакте](https://sun9-11.userapi.com/impg/Yh58oaiHFKfHsw5qsot8_IbhGhQyO_xO6sK7BQ/OtYeVqUjUKc.jpg?size=1241x1754&quality=95&sign=01ba7a6a1b39d52377a0ec70880ecdfe&type=album)
-
-[Скачать JPG таблица формул комбинаторики с серверов archive.org](https://ia600109.us.archive.org/5/items/actions-on-events-probability-theory/Combinatorics-formula-table_0000.jpg)
-{{< /spoiler >}}
+[Таблица формул комбинаторики скачать PDF](/post/2025/march/combinatorics-formula-table/Combinatorics-formula-table.pdf)
