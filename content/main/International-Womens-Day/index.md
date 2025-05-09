@@ -12,7 +12,7 @@ image:
   #filename: imgmay25/Golovin_umbriiskaya_dolina.jpg
 ---
 
-![](Golovin_umbriiskaya_dolina.jpg )
+![](/uploads/Golovin_umbriiskaya_dolina.jpg )
 
 Восьмого марта 2025 года создан и опубликован сайт **temavladin**.
 
