@@ -18,16 +18,16 @@ toc: false
 ## Содержание
 
 {{< cards >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-1/" title="Глава I. Предмет и задачи науки логики." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-2/" title="Глава II. Логические приёмы." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-3/" title="Глава III. Понятие." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-4/" title="Глава IV. Определение и деление понятия." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-5/" title="Глава V. Суждение." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-6/" title="Глава VI. Преобразование суждений." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-7/" title="Глава VII. Основные законы логического мышления." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-8/" title="Глава VIII. Дедуктивные умозаключения." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-9/" title="Глава IX. Индуктивные умозаключения." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-10/" title="Глава X. Аналогия." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-11/" title="Глава XI. Гипотеза." >}}
-  {{< card url="https://temavladin.github.io/docs/logic-vinogradov-2024/logic24-12/" title="Глава XII. Доказательство." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-1/" title="Глава I. Предмет и задачи науки логики." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-2/" title="Глава II. Логические приёмы." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-3/" title="Глава III. Понятие." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-4/" title="Глава IV. Определение и деление понятия." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-5/" title="Глава V. Суждение." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-6/" title="Глава VI. Преобразование суждений." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-7/" title="Глава VII. Основные законы логического мышления." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-8/" title="Глава VIII. Дедуктивные умозаключения." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-9/" title="Глава IX. Индуктивные умозаключения." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-10/" title="Глава X. Аналогия." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-11/" title="Глава XI. Гипотеза." >}}
+  {{< card url="/docs/logic-vinogradov-2024/logic24-12/" title="Глава XII. Доказательство." >}}
 {{< /cards >}}
