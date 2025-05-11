@@ -202,4 +202,4 @@ $5>1$, по признаку Даламбера этот ряд расходит
 ## Сохранить эту страницу PDF
 
 Текст данной страницы можно сохранить как PDF:
-[Скачать PDF](/post/2025/april/Convergence-of-series/Convergence-of-series.pdf)
+[Скачать PDF](/post/2025/april/convergence-of-series/Convergence-of-series.pdf)
