@@ -70,5 +70,4 @@ $z=f(x,y)= \sin x \cdot \sin y \; \;$ Найти: $\mathrm{d}^2 z$
 ## Сохранить эту страницу PDF
 
 Текст данной страницы можно сохранить как PDF:
-[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478382)
-[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Higher-order-differentials-from-functions-with-two-variables.pdf)
+[Скачать PDF](/post/2025/march/higher-order-differentials/higher-order-differentials.pdf)

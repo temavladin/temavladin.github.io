@@ -215,5 +215,4 @@ $u = \dfrac{y}{x}$, то есть $y = u \cdot x$, тогда $\dfrac{\mathrm{d}
 ## Сохранить эту страницу PDF
 
 Текст данной страницы можно сохранить как PDF:
-[Скачать PDF с серверов Вконтакте](https://vk.com/doc-228086099_685478384)
-[Download PDF from web archive servers](https://archive.org/download/20250323_20250323_0600/Solution-of-first-order-differential-equations.pdf)
+[Скачать PDF](/post/2025/march/first-order-differentials/first-order-differentials.pdf)
