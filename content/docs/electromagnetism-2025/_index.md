@@ -19,5 +19,3 @@ toc: false
   {{< card url="/docs/electromagnetism-2025/1-electrostatics" title="1 Электростатика" >}}
   {{< card url="/docs/electromagnetism-2025/1-1-electric-charge" title="1.1 Электрический заряд" >}}
 {{< /cards >}}
-
-{{< math >}} \vec{E} \cdot \vv{E} {{< /math >}}
