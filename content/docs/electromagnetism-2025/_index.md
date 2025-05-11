@@ -18,4 +18,5 @@ toc: false
 {{< cards >}}
   {{< card url="/docs/electromagnetism-2025/1-electrostatics" title="1 Электростатика" >}}
   {{< card url="/docs/electromagnetism-2025/1-1-electric-charge" title="1.1 Электрический заряд" >}}
+  {{< card url="/docs/electromagnetism-2025/1-2-coulombs-law" title="1.2 Закон Кулона" >}}
 {{< /cards >}}
