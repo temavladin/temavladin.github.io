@@ -27,12 +27,13 @@ sections:
     content:
       title: 'Система электронных документов А. Владина.'
       subtitle: ''
-      text: -
+      text: |-
          Предоставлена в общий доступ по средствам информационно-телекоммуникационной сети Интернет. 
          
          Санкт-Петербург 2025
     design:
       columns: '1'
+      style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
     id: posts
     content:
