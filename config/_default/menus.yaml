@@ -10,7 +10,7 @@ main:
   - name: Тетради
     url: /docs
     weight: 11
-  - name: Заметки
+  - name: Отчёты
     url: /post
     weight: 12
   - name: Картотека

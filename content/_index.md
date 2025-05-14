@@ -9,24 +9,32 @@ design:
   spacing: "1rem"
 
 sections:
-  - block: biography
+ # - block: biography
+ #   content:
+ #     username: admin
+ #     # Show a call-to-action button under your biography? (optional)
+ #     #button:
+ #     #  text: Download Résumé
+ #     #  url: uploads/resume.pdf
+ #   design:
+ #     banner:
+ #       # Upload your cover image to the `assets/media/` folder and reference it here
+ #       filename: 3219647517.jpg
+ #     biography:
+ #       # Customize the style of your biography text
+ #       style: 'text-align: justify; font-size: 0.8em;'
+  - block: markdown
     content:
-      username: admin
-      # Show a call-to-action button under your biography? (optional)
-      #button:
-      #  text: Download Résumé
-      #  url: uploads/resume.pdf
+      title: 'temavladin.github.io'
+      subtitle: ''
+      text: |-
+        Система электронных документов А. Владина. Предоставлена в общий доступ по средствам информационно-телекоммуникационной сети Интернет. Санкт-Петербург 2025
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: 3219647517.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+      columns: '1'
   - block: collection
     id: posts
     content:
-      title: Объявления
+      title: Поздравления
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -54,14 +62,6 @@ sections:
       # Choose a listing view
       view: article-grid
       columns: 2
-  - block: markdown
-    content:
-      title: 'Обратная связь'
-      subtitle: ''
-      text: |-
-        Автор будет признателен за любые отзывы, пожелания и критические замечания, которые можно присылать в сообщения [Вконтакте](https://vk.com/temavladin) .
-    design:
-      columns: '1'
   - block: collection
     id: news
     content:
@@ -91,6 +91,14 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    content:
+      title: 'Обратная связь'
+      subtitle: ''
+      text: |-
+        Автор будет признателен за любые отзывы, пожелания и критические замечания, которые можно присылать в сообщения [Вконтакте](https://vk.com/temavladin) .
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: 'Карта сайта'
