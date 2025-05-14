@@ -33,7 +33,7 @@ sections:
          Санкт-Петербург 2025
     design:
       columns: '1'
-      style: 'text-align: justify; font-size: 0.8em;'
+      style: 'text-align: center; font-size: 0.5em;'
   - block: collection
     id: posts
     content:
