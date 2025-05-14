@@ -25,9 +25,9 @@ sections:
  #       style: 'text-align: justify; font-size: 0.8em;'
   - block: markdown
     content:
-      title: 'Система электронных документов Владина'
+      title: 'Система электронных документов <br> А. Владина'
       subtitle: ''
-      text: '<p style="text-align: justify;">Предоставлена в общий доступ по средствам информационно-телекоммуникационной сети Интернет.</p> <p style="text-align: center;">Санкт-Петербург 2025</p>'
+      text: '<p style="text-align: center; font-size: 0.7em;">Предоставлена в общий доступ по средствам информационно-телекоммуникационной сети Интернет.</p> <p style="text-align: center; font-size: 0.9em;">Санкт-Петербург 2025</p>'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
