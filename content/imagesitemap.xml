@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://temavladin.github.io/post/2025/march/table-of-integrals/</loc>
+    <image:image>
+      <image:loc>https://temavladin.github.io/uploads/img25may/tablica-integralov.webp</image:loc>
+      <image:caption>Таблица интегралов</image:caption>
+      <image:title>Таблица интегралов</image:title>
+    </image:image>
+  </url> 
+  <url>
+    <loc>https://temavladin.github.io/post/2025/march/derivatives-table/</loc>
+    <image:image>
+      <image:loc>https://temavladin.github.io/uploads/img25may/tablica-proizvodnyh.webp</image:loc>
+      <image:caption>Таблица формулы производных</image:caption>
+      <image:title>Таблица формулы производных</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://temavladin.github.io/post/2025/march/combinatorics-formula-table/</loc>
+    <image:image>
+      <image:loc>https://temavladin.github.io/uploads/img25may/formuly-kombinatoriki-tablica.webp</image:loc>
+      <image:caption>Таблица формулы комбинаторики</image:caption>
+      <image:title>Таблица формулы комбинаторики</image:title>
+    </image:image>
+  </url>
+</urlset>
