@@ -60,7 +60,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: article-grid
+      view: compact
       columns: 2
   - block: collection
     id: news
@@ -88,7 +88,6 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
