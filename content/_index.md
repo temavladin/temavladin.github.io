@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "0.5rem"
 
 sections:
  # - block: biography
@@ -25,9 +25,9 @@ sections:
  #       style: 'text-align: justify; font-size: 0.8em;'
   - block: markdown
     content:
-      title: '<h1 style="text-align: center; font-size: 0.7em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Предоставлена в общий доступ по средствам информационно-телекоммуникационной сети Интернет.</p> <p style="text-align: center; font-size: 0.9em;">Санкт-Петербург 2025</p>'
+      text: '<p style="text-align: justify; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети. Система презентации электронных документов Владина.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
