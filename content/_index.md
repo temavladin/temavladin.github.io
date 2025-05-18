@@ -34,7 +34,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: '<h1 style="text-align: center; font-size: 0.6em;">Поздравления</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Поздравления</h1>'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -60,18 +60,18 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: article-grid
       columns: 2
   - block: collection
     id: news
     content:
-      title: '<h1 style="text-align: center; font-size: 0.6em;">Последние записи</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Последние записи</h1>'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 6
+      count: 4
       # Filter on criteria
       filters:
         author: ""
@@ -87,8 +87,10 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
-      columns: 2
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     content:
       title: 'Обратная связь'
