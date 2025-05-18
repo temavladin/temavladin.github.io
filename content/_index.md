@@ -65,13 +65,13 @@ sections:
   - block: collection
     id: news
     content:
-      title: Последние записи
+      title: '<h1 style="text-align: center; font-size: 0.6em;">Последние записи</h1>'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 6
       # Filter on criteria
       filters:
         author: ""
@@ -87,10 +87,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: list
+      columns: 2
   - block: markdown
     content:
       title: 'Обратная связь'
