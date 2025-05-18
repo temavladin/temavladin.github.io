@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "0.5rem"
+  spacing: "1rem"
 
 sections:
  # - block: biography
@@ -27,7 +27,7 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: justify; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети. Система презентации электронных документов Владина.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети. Система презентации электронных документов Владина.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
@@ -61,7 +61,7 @@ sections:
     design:
       # Choose a listing view
       view: article-grid
-      columns: 2
+      columns: 4
   - block: collection
     id: news
     content:
