@@ -27,14 +27,14 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети. Система презентации электронных документов Владина.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
   - block: collection
     id: posts
     content:
-      title: Поздравления
+      title: '<h1 style="text-align: center; font-size: 0.6em;">Поздравления</h1>'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -61,7 +61,7 @@ sections:
     design:
       # Choose a listing view
       view: article-grid
-      columns: 4
+      columns: 2
   - block: collection
     id: news
     content:
@@ -71,7 +71,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         author: ""
@@ -88,6 +88,7 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
+      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
