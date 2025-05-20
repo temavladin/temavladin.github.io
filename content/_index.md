@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "0.5rem"
 
 sections:
  # - block: biography
@@ -27,7 +27,7 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{% callout warning %}} Если сервер возвращает ошибку, то используйте архивную копию системы. {{% /callout %}}'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{% callout warning %}} </p> <p style="text-align: right; font-size: 0.7em;">Если сервер возвращает ошибку, то используйте архивную версию системы.</p> {{% /callout %}}'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
@@ -87,7 +87,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: citation
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
