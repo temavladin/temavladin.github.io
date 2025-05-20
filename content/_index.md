@@ -27,7 +27,7 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p>'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{% callout warning %}} Если сервер возвращает ошибку, то используйте архивную копию системы. {{% /callout %}}'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
@@ -65,11 +65,11 @@ sections:
   - block: collection
     id: news
     content:
-      title: '<h1 style="text-align: center; font-size: 0.7em;">Последние заметки</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Новые записи в тетрадях</h1>'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: docs
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
@@ -87,18 +87,18 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: list
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
     id: news
     content:
-      title: '<h1 style="text-align: center; font-size: 0.7em;">Новые записи в тетрадях</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Последние заметки</h1>'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: docs
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
