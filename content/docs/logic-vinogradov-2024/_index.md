@@ -17,17 +17,15 @@ toc: false
 
 ## Содержание
 
-{{< cards >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-1/" title="Глава I. Предмет и задачи науки логики." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-2/" title="Глава II. Логические приёмы." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-3/" title="Глава III. Понятие." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-4/" title="Глава IV. Определение и деление понятия." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-5/" title="Глава V. Суждение." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-6/" title="Глава VI. Преобразование суждений." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-7/" title="Глава VII. Основные законы логического мышления." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-8/" title="Глава VIII. Дедуктивные умозаключения." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-9/" title="Глава IX. Индуктивные умозаключения." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-10/" title="Глава X. Аналогия." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-11/" title="Глава XI. Гипотеза." >}}
-  {{< card url="/docs/logic-vinogradov-2024/logic24-12/" title="Глава XII. Доказательство." >}}
-{{< /cards >}}
+- [Глава I. Предмет и задачи науки логики.](/docs/logic-vinogradov-2024/logic24-1/)
+- [Глава II. Логические приёмы.](/docs/logic-vinogradov-2024/logic24-2/)
+- [Глава III. Понятие.](/docs/logic-vinogradov-2024/logic24-3/)
+- [Глава IV. Определение и деление понятия.](/docs/logic-vinogradov-2024/logic24-4/)
+- [Глава V. Суждение.](/docs/logic-vinogradov-2024/logic24-5/)
+- [Глава VI. Преобразование суждений.](/docs/logic-vinogradov-2024/logic24-6/)
+- [Глава VII. Основные законы логического мышления.](/docs/logic-vinogradov-2024/logic24-7/)
+- [Глава VIII. Дедуктивные умозаключения.](/docs/logic-vinogradov-2024/logic24-8/)
+- [Глава IX. Индуктивные умозаключения.](/docs/logic-vinogradov-2024/logic24-9/)
+- [Глава X. Аналогия.](/docs/logic-vinogradov-2024/logic24-10/)
+- [Глава XI. Гипотеза.](/docs/logic-vinogradov-2024/logic24-11/)
+- [Глава XII. Доказательство.](/docs/logic-vinogradov-2024/logic24-12/)
