@@ -31,47 +31,76 @@ sections:
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
-  - block: collection
-    id: posts
-    content:
-      title: '<h1 style="text-align: center; font-size: 0.7em;">Поздравления</h1>'
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - main
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: posts
+#    content:
+#      title: '<h1 style="text-align: center; font-size: 0.7em;">Поздравления</h1>'
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 2
+#      # Filter on criteria
+#      filters:
+#        # The folders to display content from
+#        folders:
+#          - main
+#        author: ""
+#        category: ""
+#        tag: ""
+#        publication_type: ""
+#        featured_only: false
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#      # Choose how many pages you would like to offset by
+#      # Useful if you wish to show the first item in the Featured widget
+#      offset: 0
+#      # Field to sort by, such as Date or Title
+#      sort_by: 'Date'
+#      sort_ascending: false
+#    design:
+#      # Choose a listing view
+#      view: article-grid
+#      columns: 2
   - block: collection
     id: news
     content:
-      title: '<h1 style="text-align: center; font-size: 0.7em;">Последние записи</h1>'
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Последние заметки</h1>'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 3
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: collection
+    id: news
+    content:
+      title: '<h1 style="text-align: center; font-size: 0.7em;">Новые записи в тетрадях</h1>'
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: docs
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
       # Filter on criteria
       filters:
         author: ""
@@ -101,10 +130,10 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'Карта сайта'
+      title: 'Служебные файлы'
       subtitle: ''
       text: |-
-        [sitemap](https://temavladin.github.io/sitemap.xml)
+        Карта сайта [sitemap](https://temavladin.github.io/sitemap.xml)
     design:
       columns: '1'
 ---
