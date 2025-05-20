@@ -2,6 +2,7 @@
 linkTitle: Электричество
 title: Электричество
 subtitle: Физика. Электричество. Рабочая тетрадь.
+summary: Рабочая тетрадь по физике, электричество.
 type: docs
 profile: true
 share: false
