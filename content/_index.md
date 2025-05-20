@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "0.5rem"
+  spacing: "1rem"
 
 sections:
  # - block: biography
