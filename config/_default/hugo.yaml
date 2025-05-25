@@ -28,6 +28,7 @@ cascade:
       kind: page
     profile: true
     editable: false
+    backlinks: false
     share: false
     show_breadcrumb: true
     # Hide date from Next In Series

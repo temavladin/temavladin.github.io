@@ -27,11 +27,11 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{% callout warning %}} <p style="text-align: left; font-size: 0.7em;">Если сервер возвращает ошибку, то используйте архивную версию системы.</p> {{% /callout %}} {{< cards >}} {{< card url="/docs" title="Рабочие тетради" subtitle="Основные многостраничные публикации" >}} {{< card url="/post" title="Отчёты и заметки" subtitle="Небольшие публикации на разные темы" >}} {{< /cards >}}'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{< cards >}} {{< card url="/docs" title="Рабочие тетради" subtitle="Основные многостраничные публикации" >}} {{< card url="/post" title="Отчёты и заметки" subtitle="Небольшие публикации на разные темы" >}} {{< /cards >}}'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
-#  - block: collection
+#  - block: collection {{% callout warning %}} <p style="text-align: left; font-size: 0.7em;">Если сервер возвращает ошибку, то используйте архивную версию системы.</p> {{% /callout %}}
 #    id: posts
 #    content:
 #      title: '<h1 style="text-align: center; font-size: 0.7em;">Поздравления</h1>'
