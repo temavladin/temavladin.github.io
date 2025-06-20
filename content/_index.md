@@ -137,5 +137,3 @@ sections:
     design:
       columns: '1'
 ---
-
-<div id="search" class="p-3"><div class="pagefind-ui svelte-1d60ae3 pagefind-ui--reset"><form class="pagefind-ui__form svelte-1d60ae3" role="search" aria-label="Поиск по сайту" action="javascript:void(0);"><input class="pagefind-ui__search-input svelte-1d60ae3" type="text" placeholder="Поиск" autocapitalize="none" enterkeyhint="search"> <button class="pagefind-ui__search-clear svelte-1d60ae3 pagefind-ui__suppressed" listeneronclick="true">Очистить поле</button> <div class="pagefind-ui__drawer svelte-1d60ae3 pagefind-ui__hidden"> </div></form></div></div>
