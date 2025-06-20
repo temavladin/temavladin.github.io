@@ -27,7 +27,7 @@ sections:
     content:
       title: '<h1 style="text-align: center; font-size: 0.6em;">СИСТЕМА ЭЛЕКТРОДОКУМЕНТОВ ВЛАДИНА</h1>'
       subtitle: ''
-      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> <div id="search" class="p-3"><div class="pagefind-ui svelte-1d60ae3 pagefind-ui--reset"><form class="pagefind-ui__form svelte-1d60ae3" role="search" aria-label="Поиск по сайту" action="javascript:void(0);"><input class="pagefind-ui__search-input svelte-1d60ae3" type="text" placeholder="Поиск" autocapitalize="none" enterkeyhint="search"> <button class="pagefind-ui__search-clear svelte-1d60ae3 pagefind-ui__suppressed" listeneronclick="true">Очистить поле</button> <div class="pagefind-ui__drawer svelte-1d60ae3 pagefind-ui__hidden"> </div></form></div></div> {{< cards >}} {{< card url="/docs" title="Рабочие тетради" subtitle="Основные многостраничные публикации" >}} {{< card url="/post" title="Отчёты и заметки" subtitle="Небольшие публикации на разные темы" >}} {{< /cards >}}'
+      text: '<p style="text-align: center; font-size: 0.7em;">Общедоступный узел информационно-телекоммуникационной сети.</p> <p style="text-align: center; font-size: 0.7em;">Санкт-Петербург 2025</p> {{< cards >}} {{< card url="/docs" title="Рабочие тетради" subtitle="Основные многостраничные публикации" >}} {{< card url="/post" title="Отчёты и заметки" subtitle="Небольшие публикации на разные темы" >}} {{< /cards >}}'
     design:
       columns: '1'
       style: 'font-size: 0.5em;'
@@ -137,3 +137,5 @@ sections:
     design:
       columns: '1'
 ---
+
+<div id="search" class="p-3"><div class="pagefind-ui svelte-1d60ae3 pagefind-ui--reset"><form class="pagefind-ui__form svelte-1d60ae3" role="search" aria-label="Поиск по сайту" action="javascript:void(0);"><input class="pagefind-ui__search-input svelte-1d60ae3" type="text" placeholder="Поиск" autocapitalize="none" enterkeyhint="search"> <button class="pagefind-ui__search-clear svelte-1d60ae3 pagefind-ui__suppressed" listeneronclick="true">Очистить поле</button> <div class="pagefind-ui__drawer svelte-1d60ae3 pagefind-ui__hidden"> </div></form></div></div>
